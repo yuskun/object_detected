@@ -1,0 +1,12 @@
+path: datasets/grape
+train: train/images
+val: test/images
+test: test/images
+
+
+names:
+  0: grapes
+ 
+
+#roboflow:
+  #url: https://universe.roboflow.com/roboflow-gw7yv/vehicles-openimages/dataset/1

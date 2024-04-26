@@ -1,0 +1,6 @@
+names:
+0: grape
+
+test: /kaggle/input/pinotnoirgrapes/Grapes/Grapes/PinotNoir/test
+train: /kaggle/input/pinotnoirgrapes/Grapes/Grapes/PinotNoir/train
+val: /kaggle/input/pinotnoirgrapes/Grapes/Grapes/PinotNoir/val
